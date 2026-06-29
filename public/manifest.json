@@ -1,0 +1,36 @@
+{
+  "name": "SJAMKMT | SuperApp",
+  "short_name": "SJAMKMT",
+  "description": "SuperApp for St. John Ambulance of Malaysia, Melaka Tengah Area",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0f1d",
+  "theme_color": "#0a0f1d",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/Hxyrmhpp/Gemini-Generated-Image-l2vpxfl2vpxfl2vp.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://i.postimg.cc/Hxyrmhpp/Gemini-Generated-Image-l2vpxfl2vpxfl2vp.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://i.postimg.cc/Hxyrmhpp/Gemini-Generated-Image-l2vpxfl2vpxfl2vp.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://i.postimg.cc/Hxyrmhpp/Gemini-Generated-Image-l2vpxfl2vpxfl2vp.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

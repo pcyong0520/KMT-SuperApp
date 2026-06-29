@@ -1,0 +1,8 @@
+{
+  "name": "SJAMKMT | SuperApp",
+  "description": "SuperApp for St. John Ambulance of Malaysia, Melaka Tengah Area, State of Melaka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

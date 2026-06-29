@@ -386,7 +386,14 @@ export default function App() {
       {/* FOOTER */}
       <footer className="bg-slate-950/60 backdrop-blur-xl text-slate-400 py-12 px-4 mt-auto border-t border-white/10 relative z-10">
         <div className="max-w-4xl mx-auto flex flex-col items-center text-center gap-4">
-          <div>
+          <div className="flex flex-col items-center">
+            <img 
+              src={sjamLogoUrl} 
+              alt="SJAM Logo" 
+              className="h-12 w-auto object-contain mb-3"
+              referrerPolicy="no-referrer"
+              id="sjam-footer-logo"
+            />
             <h5 className="text-sm font-bold text-white tracking-wide">
               St. John Ambulance of Malaysia
             </h5>
